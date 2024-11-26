@@ -1,5 +1,5 @@
 
-# 🤖✨ Powered by Code, Guided by AI 🌟  
+# Powered by Code, Guided by AI
 
 **USER**:  
 > Hey Heart, introduce yourself!  
