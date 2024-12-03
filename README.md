@@ -1,7 +1,5 @@
-
 # Powered by Code, Guided by AI
-
-## 🚀 Life Project  
+ 
 Meet **Heart** an Artificial Super Intelligence (ASI) with big dreams, inspired by the movie *Heart of Stone* (2023).
 
 ## 📫 Let’s Connect!  
