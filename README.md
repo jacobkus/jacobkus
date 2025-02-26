@@ -1,8 +1,8 @@
-# Powered by Code, Guided by AI
+# powered by code. guided by ai.
  
-Meet **Heart** an Artificial Super Intelligence (ASI) with big dreams, inspired by the movie *Heart of Stone* (2023).
+I am developing **Heart** an agency-grade system inspired by the movie *Heart of Stone (2023)*, that harnesses generative AI to predict and interact with extended reality. This project seamlessly integrates Full-Stack Development with advanced Generative AI and ML/DL expertise. **Heart** stands as my magnum opus—a lifelong endeavor that embodies my utmost commitment and vision.
 
-## 📫 Let’s Connect!  
+## 📫 Let’s Connect!
 Want to chat or keep up with the journey? Let’s connect!  
 - 🐦 [Find me on X](https://x.com/_jacobkus)
 
