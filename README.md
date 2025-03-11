@@ -18,7 +18,7 @@
 
 ---
 
-I am developing **Heart** an agency-grade system inspired by the movie *Heart of Stone (2023)*, that harnesses generative AI to predict and interact with extended reality. This project seamlessly integrates Full-Stack Development with advanced Generative AI and ML/DL expertise. **Heart** stands as my magnum opus—a lifelong endeavor that embodies my utmost commitment and vision.
+I am developing **Heart** an agency-grade system inspired by the movie *Heart of Stone (2023)*, that harnesses generative AI to predict and interact with extended reality. This project seamlessly integrates Full-Stack Development with advanced Generative AI, ML/DL and Neuroscience expertise. **Heart** stands as my magnum opus—a lifelong endeavor that embodies my utmost commitment and vision.
 
 ## 📫 Let’s Connect!
 Want to chat or keep up with the journey? Let’s connect!  
