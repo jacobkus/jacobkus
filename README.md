@@ -10,6 +10,8 @@
 
 I'm a **Software Engineer**
 
+I like doing things, especially impossible ones 💙
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![GenAI](https://img.shields.io/badge/Gen_ai-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
