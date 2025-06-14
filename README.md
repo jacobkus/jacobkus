@@ -9,7 +9,7 @@
 
 ## ⌘ + V
 
-I'm a **Software Engineer**
+I'm a **GenAI Engineer**
 
 I like doing things, especially impossible ones 💙
 
