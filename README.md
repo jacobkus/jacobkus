@@ -1,3 +1,14 @@
+![Alice](https://github.com/user-attachments/assets/ddf6ffd8-b339-49fd-84be-7a246a3c522b)
+
+# Meet Alice
+
+
+An AI desktop assistant that actually DOES things, not just talks. Connects to 1000+ apps, executes complex automations with a keystroke, and transforms "what if" into "done." Part of a small team revolutionizing how professionals work with AI—turning hours into minutes, one workflow at a time.
+
+[heyalice.app](https://heyalice.app/)
+
+## 
+
 ![Heart)](https://github.com/user-attachments/assets/22982c9b-9512-4560-874d-3e151c12d1ab)
 
 # Meet Heart
@@ -9,9 +20,9 @@
 
 ## ⌘ + V
 
-I'm a **GenAI Engineer**
+I build AI systems that ship, not just demo. Specializing in autonomous agents, LLM integrations, and turning complex workflows into one-click solutions. Currently crafting the future of human-AI collaboration at Alice.
 
-I like doing things, especially impossible ones 💙
+*I like doing things, especially impossible ones* 💙
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![GenAI](https://img.shields.io/badge/gen_ai-181818?style=for-the-badge&logo=openai&logoColor=white)
