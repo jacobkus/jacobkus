@@ -1,4 +1,4 @@
-![Alice](https://github.com/user-attachments/assets/ddf6ffd8-b339-49fd-84be-7a246a3c522b)
+![Alice](https://github.com/user-attachments/assets/013ffa78-585c-4971-abf2-809c7a2a84fa)
 
 # Meet Alice
 
