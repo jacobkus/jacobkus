@@ -1,7 +1,6 @@
-![Alice](https://github.com/user-attachments/assets/0964e733-6d9b-4a20-92b7-846d329af11d)
+![Alice](https://github.com/user-attachments/assets/140a92d9-c6bf-4cce-baa2-0a8bb75e558b)
 
 # Meet Alice
-
 
 An AI desktop assistant that actually DOES things, not just talks. Connects to 1000+ apps, executes complex automations with a keystroke, and transforms "what if" into "done." Part of a small team revolutionizing how professionals work with AI—turning hours into minutes, one workflow at a time.
 
@@ -9,10 +8,9 @@ An AI desktop assistant that actually DOES things, not just talks. Connects to 1
 
 ## 
 
-![Heart)](https://github.com/user-attachments/assets/22982c9b-9512-4560-874d-3e151c12d1ab)
+![Heart)](https://github.com/user-attachments/assets/f98b1ee2-de73-49a0-a1ac-665d2edd10cf)
 
 # Meet Heart
-
 
 **Heart** stands as a state-of-the-art analytical engine, using its formidable processing power to detect emerging trends and anticipate risks. By connecting to a vast, interconnected data network, it continuously sifts through global information to deliver clear, unbiased insights. Even though it operates independently in its predictions, key decisions still benefit from human judgment.
 
